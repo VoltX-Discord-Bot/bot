@@ -1,0 +1,2 @@
+# bot
+the VoltX bot
